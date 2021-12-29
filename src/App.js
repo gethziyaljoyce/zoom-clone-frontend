@@ -26,7 +26,7 @@ const App = () => {
     <>
       <div>
         <img src={icon} style={{ height: "100px", width: "100px" }} alt="zoom-icon" />
-        <h1 style={{ fontSize: "large", color: "#4C95FC", fontWeight: "100", padding: "20px 20px" }}><b>ZOOM CLONE</b></h1>
+        <h1 style={{ fontSize: "large", color: "#4C95FC", fontWeight: "100", padding: "20px 20px" }}><b>VIDEO CHAT APP</b></h1>
       </div>
       <div className={classes.wrapper}>
         <Video />
